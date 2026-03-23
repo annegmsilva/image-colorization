@@ -22,4 +22,5 @@ Below are some comparisons between the model’s results and the real colored im
 3. Re-run the last to see more results
 
 **AUTHOR**
+
 Anne Grazieli Marques Silva, Computer Science student at UFCG
